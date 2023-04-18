@@ -1,5 +1,6 @@
 ### Hi there 👋
-[Replit Account](https://replit.com/@tworkool)
+* [LinkedIn](https://de.linkedin.com/in/oliver-tworkowski-074722272/en)
+* [Replit](https://replit.com/@tworkool)
 
 <!--
 **tworkool/tworkool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
